@@ -5,12 +5,15 @@
 
 ## Roles / Responsibilities
 
-  - Updated daily task status using the Kaban board
-  - Utilize dataverse platform and capabilities.
-  - Create form validation 
-  - Design user interaction diagram 
-  - develop ideas for stroe themes
-  - created proposal for plannin project
+  - Updated task daily using the Kaban board 
+  - Utilized MS Dataverse Platform and Capabilities.
+  - Created entities within Dataverse according to our Entity relationship model and User interaction diagram.
+  - Developed Business Rules to evaluate and validate information being persisted to the database.
+  - Debugged issues as a team to maintain consistency of delivery and ensure accurate implementation. 
+  - Added data to the entities in Dataverse
+  - Designed user interaction diagram and entity relationship model as a team 
+  - Develop ideas as a team for store themes
+  - Assisted with proposal for planning project
 
 
    
